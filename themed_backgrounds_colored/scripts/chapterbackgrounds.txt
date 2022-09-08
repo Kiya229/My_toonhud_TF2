@@ -1,0 +1,26 @@
+"chapters"
+{
+	1	"background_arena_ravine"
+	2	"background_cp_dustbowl"
+	3	"background_cp_george"
+	4	"background_ctf_2fort"
+	5	"background_ctf_turbine"
+	6	"background_koth_nucleus"
+	7	"background_pl_goldrush"
+	8	"background_pl_goldrush_2"
+	9	"background_tc_hydro"
+	10	"background_tr_target"
+}
+"BackgroundMaps"
+{
+	1	"background_arena_ravine"
+	2	"background_cp_dustbowl"
+	3	"background_cp_george"
+	4	"background_ctf_2fort"
+	5	"background_ctf_turbine"
+	6	"background_koth_nucleus"
+	7	"background_pl_goldrush"
+	8	"background_pl_goldrush_2"
+	9	"background_tc_hydro"
+	10	"background_tr_target"
+}
