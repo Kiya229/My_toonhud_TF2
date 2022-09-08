@@ -1,0 +1,339 @@
+"characters"
+{
+	"2011 Scream Fortress Scout"
+	{
+		"image"	"../console/characters/hwn_2011_scout"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Soldier"
+	{
+		"image"	"../console/characters/hwn_2011_soldier"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Pyro"
+	{
+		"image"	"../console/characters/hwn_2011_pyro"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Demoman"
+	{
+		"image"	"../console/characters/hwn_2011_demoman"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Heavy"
+	{
+		"image"	"../console/characters/hwn_2011_heavy"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Engineer"
+	{
+		"image"	"../console/characters/hwn_2011_engineer"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Medic"
+	{
+		"image"	"../console/characters/hwn_2011_medic"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Sniper"
+	{
+		"image"	"../console/characters/hwn_2011_sniper"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2011 Scream Fortress Spy"
+	{
+		"image"	"../console/characters/hwn_2011_spy"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Scout"
+	{
+		"image"	"../console/characters/hwn_2012_scout"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Soldier"
+	{
+		"image"	"../console/characters/hwn_2012_soldier"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Pyro"
+	{
+		"image"	"../console/characters/hwn_2012_pyro"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Demoman"
+	{
+		"image"	"../console/characters/hwn_2012_demoman"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Heavy"
+	{
+		"image"	"../console/characters/hwn_2012_heavy"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Engineer"
+	{
+		"image"	"../console/characters/hwn_2012_engineer"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Medic"
+	{
+		"image"	"../console/characters/hwn_2012_medic"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Sniper"
+	{
+		"image"	"../console/characters/hwn_2012_sniper"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2012 Scream Fortress Spy"
+	{
+		"image"	"../console/characters/hwn_2012_spy"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Scout"
+	{
+		"image"	"../console/characters/hwn_2013_scout"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Soldier"
+	{
+		"image"	"../console/characters/hwn_2013_soldier"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Pyro"
+	{
+		"image"	"../console/characters/hwn_2013_pyro"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Demoman"
+	{
+		"image"	"../console/characters/hwn_2013_demoman"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Heavy"
+	{
+		"image"	"../console/characters/hwn_2013_heavy"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Engineer"
+	{
+		"image"	"../console/characters/hwn_2013_engineer"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Medic"
+	{
+		"image"	"../console/characters/hwn_2013_medic"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Sniper"
+	{
+		"image"	"../console/characters/hwn_2013_sniper"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2013 Scream Fortress Spy"
+	{
+		"image"	"../console/characters/hwn_2013_spy"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Scout"
+	{
+		"image"	"../console/characters/hwn_2014_scout"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Soldier"
+	{
+		"image"	"../console/characters/hwn_2014_soldier"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Pyro"
+	{
+		"image"	"../console/characters/hwn_2014_pyro"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Demoman"
+	{
+		"image"	"../console/characters/hwn_2014_demoman"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Heavy"
+	{
+		"image"	"../console/characters/hwn_2014_heavy"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Engineer"
+	{
+		"image"	"../console/characters/hwn_2014_engineer"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Medic"
+	{
+		"image"	"../console/characters/hwn_2014_medic"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Sniper"
+	{
+		"image"	"../console/characters/hwn_2014_sniper"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2014 Scream Fortress Spy"
+	{
+		"image"	"../console/characters/hwn_2014_spy"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Zepheniah Mann"
+	{
+		"image"	"../console/characters/zepheniah_mann"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Merasmus"
+	{
+		"image"	"../console/characters/merasmus"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Horseless Headless Horseman"
+	{
+		"image"	"../console/characters/horseless_headless_horseman"
+		"item_url"	"pyro"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Pyro"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"MONOCULUS"
+	{
+		"image"	"../console/characters/MONOCULUS"
+		"item_url"	"demoman"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Demoman"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Davy Jones"
+	{
+		"image"	"../console/characters/davy_jones"
+		"item_url"	"heavy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Heavy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Redmond"
+	{
+		"image"	"../console/characters/redmond"
+		"item_url"	"engineer"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Engineer"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Blutarch"
+	{
+		"image"	"../console/characters/blutarch"
+		"item_url"	"medic"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Medic"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Skeletons"
+	{
+		"image"	"../console/characters/skeletons"
+		"item_url"	"sniper"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Sniper"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Skeleton King"
+	{
+		"image"	"../console/characters/skeleton_king"
+		"item_url"	"spy"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Spy"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Ghost"
+	{
+		"image"	"../console/characters/ghost"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"Bombonomicon"
+	{
+		"image"	"../console/characters/bombonomicon"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+	"2015 Scream Fortress Miss Pauling"
+	{
+		"image"	"../console/characters/hwn_miss_pauling"
+		"item_url"	"scout"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Scout"
+		"holiday_restriction"	"halloween_or_fullmoon"
+	}
+}
